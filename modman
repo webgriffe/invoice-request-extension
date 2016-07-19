@@ -1,0 +1,6 @@
+app/code/community/Webgriffe/InvoiceRequest                             app/code/community/Webgriffe/InvoiceRequest
+app/design/frontend/base/default/layout/webgriffe_invoicerequest.xml    app/design/frontend/base/default/layout/webgriffe_invoicerequest.xml
+app/design/frontend/base/default/template/webgriffe_invoicerequest      app/design/frontend/base/default/template/webgriffe_invoicerequest
+app/etc/modules/Webgriffe_InvoiceRequest.xml                            app/etc/modules/Webgriffe_InvoiceRequest.xml
+app/locale/en_US/Webgriffe_InvoiceRequest.csv                           app/locale/en_US/Webgriffe_InvoiceRequest.csv
+app/locale/it_IT/Webgriffe_InvoiceRequest.csv                           app/locale/it_IT/Webgriffe_InvoiceRequest.csv

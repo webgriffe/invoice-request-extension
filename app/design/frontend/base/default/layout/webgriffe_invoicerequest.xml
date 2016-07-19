@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<layout>
+    <checkout_onepage_index>
+        <reference name="checkout.onepage.billing">
+            <block type="webgriffe_invoicerequest/invoiceRequest" name="webgriffe_invoicerequest"
+                   template="webgriffe_invoicerequest/invoice_request.phtml"/>
+        </reference>
+    </checkout_onepage_index>
+</layout>

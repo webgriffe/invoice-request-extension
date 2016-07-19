@@ -1,0 +1,11 @@
+<?php
+    /** @var Webgriffe_InvoiceRequest_Block_InvoiceRequest $this */
+    $_fieldId = 'invoice-request';
+    $_fieldName = 'invoice_request';
+    $_label = $this->__('Invoice Request')
+?>
+<div class="field invoice-request">
+    <input type="checkbox" id="<?php echo $this->getFieldId() ?>" name="<?php echo $this->getFieldName() ?>"
+           value="1" title="<?php echo $_label ?>" <?php if ($this->isInvoiceRequest()): ?>checked="checked"<?php endif; ?> />
+    <label for="<?php echo $this->getFieldId() ?>" class="required"><?php echo $_label ?></label>
+</div>

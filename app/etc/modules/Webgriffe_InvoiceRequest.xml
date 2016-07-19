@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Webgriffe_InvoiceRequest>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Checkout/>
+                <Mage_Sales/>
+                <Webgriffe_TaxIdPro/>
+            </depends>
+        </Webgriffe_InvoiceRequest>
+    </modules>
+</config>
